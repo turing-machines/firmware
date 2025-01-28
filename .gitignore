@@ -1,1 +1,4 @@
 buildroot
+.DS_Store
+.devcontainer/.bash_history
+dist
